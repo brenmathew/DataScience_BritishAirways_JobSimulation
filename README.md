@@ -41,7 +41,7 @@ Prediction and Evaluation:
 Calculate accuracy using accuracy_score() and print the result.
 Feature Importance Visualization:
 
-Feature Importance Analysis:
+- Feature Importance Analysis:
 
 1. Get feature importances from the trained Random Forest classifier using rf_classifier.feature_importances_.
 Create a DataFrame (feature_importance_df) to display feature names and their importance scores.
